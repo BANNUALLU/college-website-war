@@ -1,0 +1,26 @@
+body {
+    font-family: Arial;
+    margin: 0;
+}
+
+.header {
+    background: #003366;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+.menu {
+    background: #0055aa;
+    padding: 10px;
+}
+
+.menu a {
+    color: white;
+    margin-right: 15px;
+    text-decoration: none;
+}
+
+.content {
+    padding: 20px;
+}
